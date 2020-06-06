@@ -103,7 +103,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 * [React](https://pt-br.reactjs.org/)
 
-* [ReactNative]([React Native · A framework for building native apps using React](https://reactnative.dev/))
+* [ReactNative](https://reactnative.dev/)
 
 * [Expo](https://expo.io/)
 
