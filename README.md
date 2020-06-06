@@ -6,7 +6,7 @@
 
 > Projeto desenvolvido durante a nextLevelWeek 1.0
 
-## :construction_worker: Installação
+## :construction_worker: Instalação
 
 **Você vai precisar ter o [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) instalados no seu computador. Feito isso, você pode clonar o projeto via HTTPS, rodando este comando:** 
 
