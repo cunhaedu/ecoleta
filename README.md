@@ -4,7 +4,7 @@
 
 # Ecoleta
 
-> Projeto desenvolvido durante a nextLevelWeek 1.0
+> Projeto desenvolvido durante a nlw 1.0
 
 ## :construction_worker: Instalação
 
@@ -53,11 +53,8 @@ $ yarn dev
 ### Web
 
 ```
-# Clone este repositório
-$ git clone https://github.com/cunhaedu/nlw.git
-
-# Entre na pasta backend
-$ cd backend
+# Entre na pasta web
+$ cd web
 
 # Instale as dependências
 $ yarn install
@@ -73,11 +70,8 @@ $ yarn start
 ### Mobile
 
 ```
-# Clone este repositório
-$ git clone https://github.com/cunhaedu/nlw.git
-
-# Entre na pasta backend
-$ cd backend
+# Entre na pasta mobile
+$ cd mobile
 
 # Instale as dependências
 $ yarn install
